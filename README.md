@@ -4,6 +4,8 @@
 
 ![FernandoS18 GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoS18&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoS18)](https://github.com/FernandoS18/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia a dia 💻
 
 <div style="display: inline_block"></br>
