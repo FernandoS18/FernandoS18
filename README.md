@@ -14,7 +14,7 @@
 <div><br/>
 
 
-Estudante e apaixonado por tecnologia, educação e por mudar a vida da pessoas através da pragramaçaõ. 
+Estudande apaixonado por tecnologia, educação e por mudar a vida da pessoas através da pragramaçaõ. 
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Whatsapp.com/85991128087)
 [![Github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
